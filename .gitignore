@@ -38,3 +38,9 @@ jspm_packages
 
 #vscode folder ignore
 .vscode
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
